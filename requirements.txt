@@ -64,7 +64,7 @@ qtconsole==4.2.1
 queuelib==1.1.1
 requests==2.9.1
 scour==0.32
-Scrapy==1.0.3
+Scrapy==1.8.1
 service-identity==16.0.0
 singledispatch==3.4.0.3
 six==1.10.0
